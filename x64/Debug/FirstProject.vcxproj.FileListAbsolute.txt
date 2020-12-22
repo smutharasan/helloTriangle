@@ -1,0 +1,2 @@
+C:\Users\rajam\Desktop\Learn Game\FirstProject\x64\Debug\FirstProject.exe
+C:\Users\rajam\Desktop\Learn Game\FirstProject\x64\Debug\FirstProject.pdb

@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+C:\OpenGL\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\rajam\Desktop\Learn Game\FirstProject\Debug\FirstProject.exe : fatal error LNK1120: 2 unresolved externals
